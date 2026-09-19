@@ -62,6 +62,12 @@ A production-ready edge IoT smart socket controller built on **ESP32-S2** and **
 ​📜 License
 ​Distributed under the MIT License. See LICENSE for details.
 
+---
+
+> Take a look on my video 100% working model!!
+
+Link: https://1drv.ms/f/c/e9882d5d8e5438f2/IgDGb8PyKgdWQbwR5L6FI2GcAWGD2eTOOw36MnjQxj8RbO8?e=WICv3v
+
 
 
 
